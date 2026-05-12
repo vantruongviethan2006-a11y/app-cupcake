@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Cupcake</string>
+    <string name="choose_flavor">Choose Flavor</string>
+    <string name="choose_pickup_date">Choose Pickup Date</string>
+    <string name="order_summary">Order Summary</string>
+    <string name="back_button">Back</string>
+    <string name="new_cupcake_order">New Cupcake Order</string>
+    <string name="quantity_1">1 cupcake</string>
+    <string name="quantity_6">6 cupcakes</string>
+    <string name="quantity_12">12 cupcakes</string>
+    <string name="vanilla">Vanilla</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="red_velvet">Red Velvet</string>
+    <string name="salted_caramel">Salted Caramel</string>
+    <string name="coffee">Coffee</string>
+    <string name="subtotal">Subtotal %s</string>
+    <string name="next">Next</string>
+    <string name="cancel">Cancel</string>
+    <string name="send">Send</string>
+    <string name="order_details">Order Details: %1$s, %2$s, %3$s, %4$s</string>
+    <string name="quantity">Quantity</string>
+    <string name="flavor">Flavor</string>
+    <string name="pickup_date">Pickup Date</string>
+    <string name="total_price">Total %s</string>
+    <string name="order_cupcakes">Order Cupcakes</string>
+
+    <plurals name="cupcakes">
+        <item quantity="one">%d cupcake</item>
+        <item quantity="other">%d cupcakes</item>
+    </plurals>
+</resources>
